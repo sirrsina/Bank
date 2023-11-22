@@ -1,2 +1,0 @@
-# Bank
-Made by sirrsina
